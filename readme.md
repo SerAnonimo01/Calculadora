@@ -21,7 +21,7 @@
 
 
 ## Resumo ✍🏻
-Esse projeto é um protótipo com o objetivo de criar uma Calculadora de Vitórias de Partidas Ranqueadas, era necessário utilizar:
+Esse projeto é um protótipo com o objetivo de criar uma Calculadora de Vitórias de Partidas Rankeadas, era necessário utilizar:
 
 - Variáveis
 - Operadores
@@ -74,7 +74,7 @@ for (let i = 0; i < Heroi.length; i++) {
 ```
 
 ### 3. Função de saldo de vidas 💌
-A ideia do desafio além de produzir uma Calculadora de Partidas Ranqueadas mas também uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, ou seja, um calculo (vitórias - derrotas).
+A ideia do desafio além de produzir uma Calculadora de Partidas Rankeadas mas também uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, ou seja, um calculo (vitórias - derrotas).
 
 ```
 function saldovitoria(vitoria, derrota) {
@@ -255,7 +255,7 @@ Essa parte se utiliza a sintaxe de template string do JavaScript para inserir o 
 
 ## Conclusão 🐜
 
-Este projeto foi uma experiência incrível que me permitiu explorar a lógica de programação e a linguagem **JavaScript**. Através da criação da Calculadora de Partidas Ranqueadas, pude aplicar conceitos fundamentais de programação, como estruturas de decisão (if e else if), e aprimorar minhas habilidades de resolução de problemas.
+Este projeto foi uma experiência incrível que me permitiu explorar a lógica de programação e a linguagem **JavaScript**. Através da criação da Calculadora de Partidas Rankeadas, pude aplicar conceitos fundamentais de programação, como estruturas de decisão (if e else if), e aprimorar minhas habilidades de resolução de problemas.
 
 Este projeto me ensinou que a programação não é apenas sobre escrever código, mas também sobre pensar criticamente, resolver problemas e criar algo que seja útil e significativo. 
 
